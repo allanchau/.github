@@ -4,11 +4,7 @@ A brief summary of your PR...
 
 - [ ] A list of steps to get started with testing.
 
-**Related PRs**
-
-- #
-
-**Tasks**
+**Related Issues**
 
 - Fixes #
 
